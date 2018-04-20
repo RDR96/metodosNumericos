@@ -1,0 +1,2 @@
+# metodosNumericos
+Bisección, Newton
